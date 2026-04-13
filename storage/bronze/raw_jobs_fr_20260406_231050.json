@@ -1,0 +1,322 @@
+[
+    {
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "France",
+                "Ile-de-France",
+                "Val-de-Marne",
+                "Cr\u00e9teil",
+                "Ivry-sur-Seine"
+            ],
+            "display_name": "Ivry-sur-Seine, Cr\u00e9teil"
+        },
+        "salary_is_predicted": "0",
+        "category": {
+            "tag": "unknown",
+            "label": "Unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "latitude": 48.8078,
+        "contract_type": "permanent",
+        "created": "2026-04-03T23:58:12Z",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Data Engineer - H/F",
+        "description": "Travailler chez Siplec, c'est int\u00e9grer une entit\u00e9 du Mouvement E.Leclerc, sp\u00e9cialis\u00e9e dans les \u00c9nergies ainsi que dans la conception, le d\u00e9veloppement et l'achat de produits non-alimentaires des Marques de Distributeur (MDD) de l'enseigne, d'origine France, Europe et international. Entreprise \u00e0 taille humaine (environ 500 collaborateurs en France), Siplec est certifi\u00e9e Great Place To Work. Nos collaborateurs pl\u00e9biscitent particuli\u00e8rement l'\u00e9quit\u00e9, la solidarit\u00e9, l'int\u00e9gration, l'\u00e9quilibre vie p\u2026",
+        "longitude": 2.37462,
+        "id": "5689265941",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY4OTI2NTk0MSIsInMiOiJpRFRfZlFVeThSR3l6Y205TDJVYXZ3In0.4AgiRKBnpWN51ySqDwHazUwueDvk76--bqaF8UU5yEg",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "E.Leclerc"
+        },
+        "redirect_url": "https://www.adzuna.fr/land/ad/5689265941?se=iDT_fQUy8RGyzcm9L2Uavw&utm_medium=api&utm_source=5b081d5c&v=3445637C11A6DD045A37A1BF2CBEB0CA77D398CE"
+    },
+    {
+        "longitude": 2.344631,
+        "description": "- organise la phase de recueil du besoin DATA pour les projets applicatifs de la plateforme et propose les \u00e9volutions d'architecture pour permettre leur stockage, transformation, mise en qualit\u00e9 et utilisation. Il collabore avec l'\u00e9quipe d'architecture plateforme - organise la s\u00e9curisation des acc\u00e8s et la gestion applicative de ces derniers au sein de la plateforme (Usine logicielle du CICoS). Il g\u00e8re les \u00e9quipes de d\u00e9veloppement Data/IA pour la r\u00e9alisation des logiciels/fonctions de traitement\u2026",
+        "redirect_url": "https://www.adzuna.fr/land/ad/5684911023?se=iDT_fQUy8RGyzcm9L2Uavw&utm_medium=api&utm_source=5b081d5c&v=42F5D3C767FD649B64CA44B0B681E1A33826452A",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Minist\u00e8re des Arm\u00e9es"
+        },
+        "id": "5684911023",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY4NDkxMTAyMyIsInMiOiJpRFRfZlFVeThSR3l6Y205TDJVYXZ3In0.HmHzxempYJZudULIlPeFEt8QHDnV_RtSKrNrg-eEpIk",
+        "contract_type": "permanent",
+        "latitude": 48.863839,
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "France",
+                "Ile-de-France",
+                "Paris"
+            ],
+            "display_name": "Paris, Ile-de-France"
+        },
+        "salary_is_predicted": "0",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Unknown",
+            "tag": "unknown"
+        },
+        "title": "DATA ENGINEER 5A/13",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "created": "2026-04-01T07:52:07Z"
+    },
+    {
+        "latitude": 48.863839,
+        "location": {
+            "area": [
+                "France",
+                "Ile-de-France",
+                "Paris"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Paris, Ile-de-France"
+        },
+        "salary_is_predicted": "0",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "unknown",
+            "label": "Unknown"
+        },
+        "title": "Data Engineer - Analyste de donn\u00e9es",
+        "salary_min": 50000,
+        "created": "2026-03-27T11:49:52Z",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": 2.344631,
+        "description": "Data Praxis est un cabinet de conseil sp\u00e9cialis\u00e9 en Business Intelligence et transformation Data. Nous accompagnons les entreprises dans la valorisation de leurs donn\u00e9es pour mieux d\u00e9cider, optimiser leurs performances et acc\u00e9l\u00e9rer leur transformation digitale. Nos domaines de comp\u00e9tences :  Data Transformation (MSBI, Azure Data Factory)  Data Insights & Visualisation  Cloud & plateformes Data (Microsoft Azure, GCP)  Power Platform (Power BI, Power Apps, Power Automate) Notre ADN : expertise, p\u2026",
+        "salary_max": 60000,
+        "id": "5680217499",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaURUX2ZRVXk4Ukd5emNtOUwyVWF2dyIsImkiOiI1NjgwMjE3NDk5In0.8QfBnfNULvNdS0eMQzpK7ZG_tbdzO2KAdd5gqrIPRPQ",
+        "redirect_url": "https://www.adzuna.fr/details/5680217499?utm_medium=api&utm_source=5b081d5c",
+        "company": {
+            "display_name": "DATA PRAXIS",
+            "__CLASS__": "Adzuna::API::Response::Company"
+        }
+    },
+    {
+        "latitude": 48.86654,
+        "salary_is_predicted": "0",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "label": "Unknown",
+            "tag": "unknown"
+        },
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "France",
+                "Ile-de-France",
+                "Paris",
+                "2\u00e8me Arrondissement"
+            ],
+            "display_name": "2\u00e8me Arrondissement, Paris"
+        },
+        "title": "Senior Data Engineer @ Entalpic",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "created": "2025-04-30T04:49:22Z",
+        "longitude": 2.34016,
+        "description": "We are a dedicated team at the forefront of AI and chemistry, working to accelerate the energy transition. Our focus is on discovering new chemicals and materials that can enable more sustainable practices in sectors with urgent decarbonization needs. Specifically, we are developing a modern generative AI platform to discover new catalysts that optimize chemical reactions, significantly reduce CO\u2082 emissions, and help transform carbon-intensive industries. As an early-stage, AI-driven startup wi\u2026",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Breega"
+        },
+        "redirect_url": "https://www.adzuna.fr/details/5169817216?utm_medium=api&utm_source=5b081d5c",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTE2OTgxNzIxNiIsInMiOiJpRFRfZlFVeThSR3l6Y205TDJVYXZ3In0.q52-bBO24B8d_hJ3UWK1CxcAnSgMwAPI__u77-2h7vM",
+        "id": "5169817216"
+    },
+    {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "created": "2024-07-30T23:50:57Z",
+        "title": "Data Engineer (H/F)",
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "unknown",
+            "label": "Unknown"
+        },
+        "salary_is_predicted": "0",
+        "location": {
+            "display_name": "Lyon, Rh\u00f4ne",
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "France",
+                "Auvergne-Rh\u00f4ne-Alpes",
+                "Rh\u00f4ne",
+                "Lyon"
+            ]
+        },
+        "latitude": 45.72035,
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Ippon Technologies"
+        },
+        "redirect_url": "https://www.adzuna.fr/details/4801647741?utm_medium=api&utm_source=5b081d5c",
+        "id": "4801647741",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaURUX2ZRVXk4Ukd5emNtOUwyVWF2dyIsImkiOiI0ODAxNjQ3NzQxIn0.GluG9HM64B2AMgviCvyOWt6kd0p57Fq3pOegCRRvgBM",
+        "description": "Qui sommes-nous ? Ippon, c'est l\u2019\u00e9nergie du collectif au service de la technologie ! Nous sommes un cabinet de conseil et d\u2019expertise sp\u00e9cialis\u00e9 dans des solutions digitales innovantes. Nous sommes pr\u00e9sents sur l\u2019ensemble du territoire national ainsi qu\u2019\u00e0 l\u2019international. Notre coeur de m\u00e9tier est de construire des produits num\u00e9riques sur mesure pour nos clients en \u00e9quipes Ippon ! Cr\u00e9\u00e9e en 2017, l\u2019agence de Lyon, ce sont des passionn\u00e9s intervenant sur des projets \u00e0 forte technicit\u00e9 ou en consei\u2026",
+        "longitude": 5.08666
+    },
+    {
+        "title": "Data Engineer H/F",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "created": "2025-11-01T05:16:15Z",
+        "latitude": 43.4082,
+        "contract_type": "permanent",
+        "salary_is_predicted": "0",
+        "location": {
+            "area": [
+                "France",
+                "Occitanie",
+                "Haute-Garonne"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Haute-Garonne, Occitanie"
+        },
+        "category": {
+            "label": "Unknown",
+            "tag": "unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Expleo"
+        },
+        "redirect_url": "https://www.adzuna.fr/details/5473963720?utm_medium=api&utm_source=5b081d5c",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaURUX2ZRVXk4Ukd5emNtOUwyVWF2dyIsImkiOiI1NDczOTYzNzIwIn0.xUvGNORcsrRRu06qwj3vIIXqJHaRdiKISo93G-snDWc",
+        "id": "5473963720",
+        "longitude": 1.13894,
+        "description": "Au sein de l\u2019\u00e9quipe Products Systems Engineering, rattach\u00e9 \u00e0 l\u2019agence de Toulouse vous occuperez le r\u00f4le Data Analyst H/F. Dans le cadre de l'analyse des donn\u00e9es, vous \u00eates en charge de l'automatisation des processus pour fournir des solutions efficaces et des visualisations claires. Missions : Identifier les donn\u00e9es pertinentes, d\u00e9finir le probl\u00e8me avec les instruments m\u00e9tiers, et proposer des solutions adapt\u00e9es. Impl\u00e9menter des scripts pour extraire, transformer, charger (ETL), et fusionner d\u2026"
+    },
+    {
+        "redirect_url": "https://www.adzuna.fr/details/5632241170?utm_medium=api&utm_source=5b081d5c",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "data-major"
+        },
+        "id": "5632241170",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYzMjI0MTE3MCIsInMiOiJpRFRfZlFVeThSR3l6Y205TDJVYXZ3In0.wDIOwlAB5E7GNH2_OPHFcliSM9tHPhHcnDQkk6yRQ9s",
+        "longitude": 4.77889,
+        "description": "Au sein de l\u2019\u00e9quipe data-major , vous intervenez pour le compte de nos clients grands comptes et industriels sur des projets Data \u00e0 forte volum\u00e9trie et \u00e0 forts enjeux de performance, de scalabilit\u00e9 et de fiabilit\u00e9. \u00c0 ce titre, vos principales missions sont les suivantes : Participer au cadrage et \u00e0 la conception d\u2019architectures Big Data et Cloud (batch et streaming) dans des environnements complexes. Analyser les besoins m\u00e9tiers et techniques et r\u00e9diger les sp\u00e9cifications fonctionnelles et tech\u2026",
+        "title": "Data Engineer H/F",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time",
+        "created": "2026-02-16T21:04:36Z",
+        "latitude": 45.77455,
+        "category": {
+            "label": "Unknown",
+            "tag": "unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "0",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "France",
+                "Auvergne-Rh\u00f4ne-Alpes",
+                "Rh\u00f4ne",
+                "Lyon",
+                "Ecully"
+            ],
+            "display_name": "Ecully, Lyon"
+        }
+    },
+    {
+        "salary_is_predicted": "0",
+        "location": {
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "area": [
+                "France",
+                "Occitanie",
+                "Haute-Garonne",
+                "Toulouse"
+            ],
+            "display_name": "Toulouse, Haute-Garonne"
+        },
+        "category": {
+            "tag": "unknown",
+            "label": "Unknown",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "latitude": 43.60436,
+        "contract_time": "full_time",
+        "created": "2025-09-10T13:47:09Z",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Data Engineer exp\u00e9riment\u00e9.e",
+        "description": "L'expertise comme moteur, l'humain comme boussole Tu cherches une structure o\u00f9 la technique est reine, mais o\u00f9 l'humain n'est pas une option ? Bienvenue chez SFEIR Toulouse ! Ici, nous ne recrutons pas des profils pour remplir des missions, mais des Sfeirian\u00b7ne\u00b7s pour faire grandir un collectif. \u00c0 Toulouse, nous sommes une dizaine expert\u00b7e\u00b7s (parmi 900 au global) convaincu\u00b7e\u00b7s qu'on progresse plus vite et mieux ensemble. Ton quotidien chez nous, c'est l'assurance d'\u00e9voluer au sein d\u2019un \u00e9cosyst\u00e8\u2026",
+        "longitude": 1.44295,
+        "id": "5392298799",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM5MjI5ODc5OSIsInMiOiJpRFRfZlFVeThSR3l6Y205TDJVYXZ3In0.aHINGJsog6j67cZNjd-rz-V6Pz7w_8ClzQ2AS90MJbE",
+        "redirect_url": "https://www.adzuna.fr/details/5392298799?utm_medium=api&utm_source=5b081d5c",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Sfeir"
+        }
+    },
+    {
+        "description": "Description du poste La Plateforme Data met en \u0153uvre une architecture \u00ab Data Centric \u00bb, point de r\u00e9f\u00e9rence de la data dans le SI pour casser les silos d\u2019information de l\u2019entreprise. Elle fournit ces donn\u00e9es par API \u00e0 l\u2019ensemble de l\u2019\u00e9cosyst\u00e8me pour g\u00e9n\u00e9raliser leur traitement et leur consultation en temps r\u00e9el et permet de simplifier et acc\u00e9l\u00e9rer les traitements analytiques de nos donn\u00e9es pour faire converger l\u2019op\u00e9rationnel et le d\u00e9cisionnel. Int\u00e9gr\u00e9(e) dans les \u00e9quipes Plateforme Data le/la co\u2026",
+        "longitude": 2.27287,
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Collective.work"
+        },
+        "redirect_url": "https://www.adzuna.fr/details/5672589909?utm_medium=api&utm_source=5b081d5c",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY3MjU4OTkwOSIsInMiOiJpRFRfZlFVeThSR3l6Y205TDJVYXZ3In0.qfPHVrPO50QEnlS1BNysoPvVmm7wjDwdNVLJqfe8KTU",
+        "id": "5672589909",
+        "salary_is_predicted": "0",
+        "location": {
+            "area": [
+                "France",
+                "Ile-de-France",
+                "Essonne",
+                "Palaiseau",
+                "Massy"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location",
+            "display_name": "Massy, Palaiseau"
+        },
+        "category": {
+            "__CLASS__": "Adzuna::API::Response::Category",
+            "tag": "unknown",
+            "label": "Unknown"
+        },
+        "contract_type": "permanent",
+        "latitude": 48.7303,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "created": "2026-03-20T01:59:10Z",
+        "contract_time": "full_time",
+        "title": "Data Engineer senior - CDI"
+    },
+    {
+        "salary_is_predicted": "0",
+        "category": {
+            "tag": "engineering-jobs",
+            "label": "Emplois Ing\u00e9nierie",
+            "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "location": {
+            "display_name": "Lyon, Rh\u00f4ne",
+            "area": [
+                "France",
+                "Auvergne-Rh\u00f4ne-Alpes",
+                "Rh\u00f4ne",
+                "Lyon"
+            ],
+            "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "latitude": 45.72035,
+        "contract_type": "permanent",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "created": "2024-04-03T17:46:41Z",
+        "title": "Data engineer F/H",
+        "description": "Description de la mission Au sein du p\u00f4le, vous avez la charge de manipuler les donn\u00e9es de la plus grosse base de donn\u00e9es m\u00e9dicale du monde, transmises par l'Assurance Maladie. Votre mission est de pr\u00e9parer et de mettre \u00e0 disposition les donn\u00e9es pour les diff\u00e9rents acteurs de l'entreprise. Vous industrialisez les flux de donn\u00e9es de centaines de milliers de patients, pour les suivre sur une dizaine d'ann\u00e9es et rep\u00e9rer certains \u00e9v\u00e9nements de leur prise en charge. Ainsi, les analyses pourront mett\u2026",
+        "longitude": 5.08666,
+        "redirect_url": "https://www.adzuna.fr/details/4634789648?utm_medium=api&utm_source=5b081d5c",
+        "company": {
+            "__CLASS__": "Adzuna::API::Response::Company",
+            "display_name": "Docaposte"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiaURUX2ZRVXk4Ukd5emNtOUwyVWF2dyIsImkiOiI0NjM0Nzg5NjQ4In0.2jEew4pdId-Otisp7XC9cCJYjKcKNj66E73QCVMr4JE",
+        "id": "4634789648"
+    }
+]

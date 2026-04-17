@@ -124,7 +124,6 @@ spark-submit \
 -----
 
 **Author:** Abdelali Marin  
-*Engineering Student at INPT (Institut National des Postes et Télécommunications)* [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://www.google.com/search?q=https://github.com/abdelali522)
+*Engineering Student at INPT (Institut National des Postes et Télécommunications)* [LinkedIn](https://linkedin.com/in/abdelali-marin) | [GitHub](https://www.google.com/search?q=https://github.com/abdelali522)
 
-```
 ```
